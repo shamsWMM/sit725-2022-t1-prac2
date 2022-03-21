@@ -1,0 +1,23 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "express ",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamsWMM/Pract2OnCampus.git"
+  },
+  "author": "Shams WMM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shamsWMM/Pract2OnCampus/issues"
+  },
+  "homepage": "https://github.com/shamsWMM/Pract2OnCampus#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
